@@ -1,0 +1,11 @@
+[package]
+name = "rs-init-macro"
+version = "0.1.0"
+edition = "2021"
+authors = ["Szymon Dziwak"]
+description = "A macro for creating init functions"
+license = "MIT"
+repository = "https://github.com/skdziwak/rs-init-macro"
+
+[lib]
+proc-macro = true
